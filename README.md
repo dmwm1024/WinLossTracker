@@ -15,3 +15,4 @@ Output: Today's Record: 3 - 1
 The keybinds are presently +, -, and * on the numpad. 
 
 - You do not have to tab out to update. If you Win, press +... Lose, press -, Draw, press *
+- Do not bind to keys that you use for in-game purposes, as this overrides that key. I'll possibly change that in the future, but this was built for myself and I'm fine with the way it is... If anyone uses this and isn't sure how to make that change, ask and I'll do it.
