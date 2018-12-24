@@ -7,7 +7,11 @@ When you first launch it, a file will be created on your desktop named 'KadeWinL
 On the form, the box containing "{W} - {L} - {D}" is customizable. It will insert your Wins/Losses/Draws in place of the {W} etc. (first letter of whichever it is). You don't have to have them all, and you can add/change the existing text. 
 
 *assuming a current record of 3 wins and 1 loss*
+
 Example: Today's Record: {W} - {L} 
+
 Output: Today's Record: 3 - 1
 
 The keybinds are presently +, -, and * on the numpad. 
+
+- You do not have to tab out to update. If you Win, press +... Lose, press -, Draw, press *
